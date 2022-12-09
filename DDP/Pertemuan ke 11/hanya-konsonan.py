@@ -8,4 +8,4 @@ def delVowel(input):
             output += char
     return output
     
-print(delVowel('Sekolah Tinggi Terpadu'))
+print(delVowel('Nurul Fikri'))

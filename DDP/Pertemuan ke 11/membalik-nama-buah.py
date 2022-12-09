@@ -1,4 +1,4 @@
-buah = ['manggis', 'mangga', 'jambu', 'markisa', 'sirsak']
+buah = ['pepaya', 'mangga', 'pisang', 'durian', 'jambu']
 
 print('='*60)
 
